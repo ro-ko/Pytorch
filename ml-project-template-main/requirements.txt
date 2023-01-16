@@ -1,0 +1,6 @@
+fire==0.4.0
+tqdm==4.61.2
+numpy==1.20.3
+loguru==0.5.3
+torchvision==0.2.2
+torch==1.9.0
